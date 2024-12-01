@@ -26,7 +26,7 @@ Btw it's not just another Electron app 😉
 </div>
 
 ## 🌃 Features
-
+## By Mudassir Alam
 - 🚫 No ads, thanks to the use of public & free Spotify and YT Music APIs¹
 - ⬇️ Freely downloadable tracks
 - 🖥️ 📱 Cross-platform support
